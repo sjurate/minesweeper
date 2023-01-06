@@ -7,7 +7,7 @@ body * {
 }
 
 body {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container {
@@ -22,10 +22,19 @@ body {
 .title {
   text-align: center;
   margin-top: 4rem;
+  width: 400px;
+  background-color: rgb(171, 227, 208);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.title span {
+  display: block;
+  font-style: italic;
 }
 
 .game-board {
-  margin-top: 3rem;
+  margin-top: 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -60,4 +69,18 @@ body {
 .checked {
   background-color: red;
   background-image: url(opened-sq.svg);
+}
+
+.restart-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.25rem;
+  border-radius: 4px;
+}
+
+.info {
+  margin: 0.8rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
 }
