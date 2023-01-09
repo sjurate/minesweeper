@@ -255,7 +255,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   document.querySelector(".restart-btn").addEventListener("click", restartGame);
-  console.log("Welcome!");
 });
 
 // if (module.hot) {
