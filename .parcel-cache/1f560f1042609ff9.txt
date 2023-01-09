@@ -1,4 +1,4 @@
-8464
+8473
 117C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\websocket-extensions\lib\pipeline\README.md133173854905861849 0
 101C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\source-map\lib\array-set.js133177279729093882 0
 91C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\binary-extensions133173854905001788 1
@@ -17,7 +17,7 @@
 91C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\unpipe\HISTORY.md133173854904571741 0
 99C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\array\map.js133177312979101865 0
 103C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\csso\lib\restructure\index.js133177279759744998 0
-67C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\app.js133177340102237721 0
+67C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\app.js133177340993147646 0
 103C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\stable\reflect\has.js133177312964193811 0
 121C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\websocket-driver\lib\websocket\driver\client.js133173854903501673 0
 101C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\array\slice.js133177312993626013 0
@@ -59,7 +59,7 @@
 98C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\abortcontroller-polyfill133177279744222938 1
 126C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\actual\object\get-own-property-descriptor.js133177312961101828 0
 105C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\actual\object\assign.js133177312920005051 0
-65C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist133177340707514869 1
+65C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist133177350555433114 1
 73C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\gradient.jpg133174921452037455 0
 95C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\http-errors\README.md133173854904671754 0
 108C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\symbol\replace-all.js133177312989436493 0
@@ -86,7 +86,7 @@
 121C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\modules\es.typed-array.last-index-of.js133177312943653682 0
 101C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\faye-websocket\CHANGELOG.md133173854905751837 0
 89C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\stream-combiner133173854904981780 1
-70C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\style.css133174921982287104 0
+70C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\style.css133177349955007942 0
 103C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\svgo\plugins\removeDoctype.js133177279764326822 0
 105C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\caniuse-lite\data\regions\GG.js133177279792024146 0
 78C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\.bin133177279843309621 1
@@ -1020,6 +1020,7 @@
 116C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@babel\helper-validator-identifier\scripts133177279736194429 1
 83C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\yaml\dist133177279765160004 1
 89C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\from\.npmignore133173854903161643 0
+87C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\gradient.87e8c4e9.jpg133177347477660624 0
 89C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\yaml\index.d.ts133177279766866631 0
 109C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\stable\string\virtual\at.js133177312921781507 0
 98C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\nth-check\lib\parse.d.ts133177279754843908 0
@@ -1577,6 +1578,7 @@
 116C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\stable\typed-array\uint16-array.js133177313007290845 0
 91C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\is-glob\README.md133173854904211721 0
 96C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\css-tree\lib\tokenizer133177279779817354 1
+84C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.8374d6ed.css133177350555143079 0
 104C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\uuid\dist\esm-browser\index.js133173854903721683 0
 117C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\serve-index\public\icons\page_white_php.png133173854907611985 0
 98C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\es\array\fill.js133177312951129160 0
@@ -2280,7 +2282,7 @@
 130C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133177279768584278 1
 128C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133177279729303889 0
 120C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\serve-index\public\icons\page_white_vector.png133173854907841998 0
-76C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.html133177340707374865 0
+76C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.html133177350555143079 0
 108C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\caniuse-lite\dist\lib\supported.js133177279814858262 0
 102C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\source-map-support\README.md133177279731954126 0
 92C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\js-tokens\index.js133177279725593629 0
@@ -3170,6 +3172,7 @@
 103C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\mdn-data\api\inheritance.json133177279741243238 0
 118C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\caniuse-lite\data\features\css-exclusions.js133177279782304729 0
 123C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133177279777883289 0
+88C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.8374d6ed.css.map133177350555393108 0
 93C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\map-stream\examples133173854904881778 1
 105C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\features\reflect\has.js133177312964143799 0
 120C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\modules\esnext.symbol.pattern-match.js133177312948882038 0
@@ -3902,7 +3905,7 @@
 114C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\caniuse-lite\data\features\css-sticky.js133177279786097997 0
 119C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@parcel\transformer-raw\src\RawTransformer.js133177279730123981 0
 114C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\dom-serializer\node_modules\entities\lib133177279750016503 1
-87C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.ab28f481.js.map133177324028976272 0
+87C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.ab28f481.js.map133177350555403108 0
 116C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@parcel\transformer-babel\src\constants.js133177279748694781 0
 89C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\detect-libc\lib133177279729823947 1
 120C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\modules\esnext.typed-array.group-by.js133177312949072054 0
@@ -4492,6 +4495,7 @@
 100C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@parcel\hash\index.js.flow133177279726133671 0
 112C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\typed-array\int8-array.js133177312970587951 0
 106C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\stable\weak-map\index.js133177312969952556 0
+83C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.5baa4167.js133177347478020656 0
 115C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\stable\url-search-params\index.js133177312969902557 0
 108C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@parcel\utils\test\urlJoin.test.js133177279775863315 0
 106C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\array\to-spliced.js133177313003693623 0
@@ -5755,6 +5759,7 @@
 100C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\math\log1p.js133177312977417136 0
 106C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\math\rad-per-deg.js133177312986112119 0
 102C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\math\radians.js133177312986172153 0
+88C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.3a01df49.css.map133177349955447984 0
 106C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@mischnic\json-sourcemap\LICENSE133177279722536162 0
 100C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\math\scale.js133177312990485439 0
 99C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\full\math\sign.js133177312992834895 0
@@ -6672,6 +6677,7 @@
 108C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@parcel\runtime-service-worker\lib133177279734714325 1
 99C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\es\error\index.js133177312966824277 0
 94C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\buffer-from\index.js133177279724466313 0
+87C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.5baa4167.js.map133177347478100666 0
 126C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\@babel\helper-validator-identifier\lib\identifier.js133177279726133671 0
 101C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\es\date\get-year.js133177312961985280 0
 98C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\es\date\index.js133177312966804275 0
@@ -6865,6 +6871,7 @@
 120C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\caniuse-lite\data\features\webkit-user-drag.js133177279821923360 0
 111C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\actual\string\virtual\trim.js133177313006510784 0
 108C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\actual\set\intersection.js133177312970674483 0
+88C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\opened-sq.fd10c8b0.svg133177347476660560 0
 112C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\actual\set\is-disjoint-from.js133177312971239055 0
 108C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\actual\set\is-subset-of.js133177312972521357 0
 116C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\core-js\actual\set\symmetric-difference.js133177313000163272 0
@@ -8459,7 +8466,9 @@
 87C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\.bin\svgo.ps1133177279843189601 0
 87C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\node_modules\.bin\uuid.ps1133173854908212021 0
 88C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\closed-sq.aab13aab.svg133177324028816266 0
+88C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\closed-sq.c0fb0dd1.svg133177347477170593 0
 83C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.13ea584b.js133177340707384856 0
+84C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.3a01df49.css133177349955387976 0
 84C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.81da9c8a.css133177324028816266 0
 88C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.81da9c8a.css.map133177324028976272 0
-83C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.ab28f481.js133177324028826270 0
+83C:\Users\rasau\OneDrive\Dokumentai\_39_Front-end\minesweeper\dist\index.ab28f481.js133177350555143079 0
