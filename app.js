@@ -1,3 +1,6 @@
+import "core-js/stable";
+import "regenerator-runtime/runtime";
+
 document.addEventListener("DOMContentLoaded", () => {
   const grid = document.querySelector(".grid");
   const flagsHTML = document.getElementById("flags-left");
@@ -253,3 +256,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.querySelector(".restart-btn").addEventListener("click", restartGame);
 });
+
+// if (module.hot) {
+//   module.hot.accept();
+// }
